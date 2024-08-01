@@ -79,18 +79,29 @@
 - Firstly, we need to name our templates in a systematic structure. This part can look silly, but it is the most important part when you are trying to find a template fast as possible. Systematic template naming means increased planning time. Templates have two main branch of features we need to define, ‘Attribute Based’ and ‘Time Based’.
 
 - Attribute based features:
+
 1-	R-> Template with distinct section for routines. 
+
 2-	P-> Template with distinct section for tasks. 
+
 3-	(RP)-> Template with combined section of routine and tasks.
+
 4-	O-> Template with distinct section for observations.
+
 5-	S-> Template with distinct section for sport.
+
 6-	D-> Template with distinct section for Diet.
+
 7-	(SD)-> Template with combined section of Sport and Diet.
 
 - Time based features:
+
 1-	W -> Weekly
+
 2-	M -> Monthly
+
 3-	Y -> Yearly
+
 4-	N [number of days] -> independent plan. Needs to give the number of days this independent plan can cover.
 
 - This naming and classification system can change according to your needs. However, do not forget that these classifications are the most important ones. Templates will always have their own unique rules. Because every template is specialized for a situation at the end. I recommend for naming and classification system change, when you need a differentiate to define the difference between two templates. Other than that, I do not recommend to increase the complexity of template classification.
@@ -113,21 +124,35 @@ Ex2: 01.01.2020 – 06.01.2020 - RPGSD – h – 1.0
 - Meaning: This is a plan for between 01.01.2020 and 06.01.202 has routines, non-routines, observations, Sports and diet section. Plan can cover just a week. This template is the first version of templates with the features like this.
 
 ### Template Development 
+
 - Template development is completely up to you. At the github page of this planning life cycle, you will able to see my own template(s). You can use them as an example. But I want to warn you about some points before starting to develop templates.
+
 1- Always be realistic. Do not put more than you can handle inside the plan. If you do not think you will able to observe and take notes in real time, do not put it at the template you are actively using. Be efficient and realistic.
+
 2- Always Use big punts to increase the readability. Small notes and symbols will always create a confusion for you when you look to your own plan. 
+
 3- Always write a document of ‘Template handbook’. Never skip this part. Never think like: ‘I know how I should use’. Pencil always beats words when we are taking notes and structuring something. 
+
 #### Template Hand Book
+
 - Every template will have a different how to use based to the designed template. So always create a hand book of how to use that template. General topics of the hand book should:
+
 1- How to follow routines and tasks 
+
 2- Conditions for rearranging the plan inside the coverage date of the plan. 
+
 3- Optimal conditions for this template 
+
 4- Weaknesses and possible improvements of the template. 
+
 So as you understand from the last part, this hand book will be updated with different version of the template.
 
 ## Conclusion  
+
 - This is the end of KUZEY UMAY SAMLI’s planning lifecycle. Please let me know your comments and problems to improve this plan and lifecycle.
+
 - Writer is not the native of English. Therefore, typos and mistakes are likely. Feel free to warn and give feedbacks.  
+
 - This documentation will be at my GitHub page. I also will be providing example templates. And in 1 to 2 year, I will be releasing a planning app based on my planning framework. So Especially in this year it will be more then helpful to get feedback before the development stage starts. 
 
 - Thanks for your time. 
