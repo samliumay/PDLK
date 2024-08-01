@@ -94,21 +94,21 @@ Planning and Development life cycle of KUZEY
 
 - This naming and classification system can change according to your needs. However, do not forget that these classifications are the most important ones. Templates will always have their own unique rules. Because every template is specialized for a situation at the end. I recommend for naming and classification system change, when you need a differentiate to define the difference between two templates. Other than that, I do not recommend to increase the complexity of template classification.
 - Now we can talk about how we will name the templates. At bellow, you can see the rule set of template naming. With the examples, you will understand how we will be naming the templates. I did not talk about the version part. Simply we are versioning all the versions of our templates to follow which version are we currently in. Goes from 1.0 to infinity and changes one per version.
-'''
+```
 Rule: Template - (Attribute based features) - (Time based features) – (Version)
-'''
-'''
+```
+```
 Ex1: Template - RPGSD – h – 1.0 
-'''
+```
 - Meaning: This is a template has routines, non-routines, observations, Sports and diet section. In addition, it can cover just a week. In addition, it is at version 1.0. Means this is the first template created with these features.
 
 - To follow the template usage at the plans, we will have a naming rule at the plans either. You can see the plan-naming rule with an example bellow.  
-'''
+```
 Rule: (‘Exact dates plan covers’/’Template’) - (Attribute based features) - (Time based features) – (Version)
-'''
-'''
+```
+```
 Ex2: 01.01.2020 – 06.01.2020 - RPGSD – h – 1.0
-'''
+```
 - Meaning: This is a plan for between 01.01.2020 and 06.01.202 has routines, non-routines, observations, Sports and diet section. Plan can cover just a week. This template is the first version of templates with the features like this.
 
 ### Template Development 
