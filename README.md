@@ -1,5 +1,6 @@
 # PDLK
-Planning and Development life cycle of KUZEY
+- Planning and Development life cycle of KUZEY
+- PDF Version is available at the documents. 
 
 ## Introduction 
 - Documentation of KUZEY UMAY SAMLI’s planning lifecycle. Free to use but necessary to give reference to KUZEY UMAY SAMLI and asking him via platforms given bellow.
