@@ -9,9 +9,13 @@ Planning and Development life cycle of KUZEY
 - Mainly there will be two parts. The Explanation part of the lifecycle and the Templates part. Lifecycle will explain how you will apply, maintain and change the plans you developed.
 - Template part will be explaining how to systematically design planning templates for different time-lines and different topics. In addition, this part will show how to systemically store them.
 - To use this lifecycle, contact with KUZEY UMAY SAMLI via: 
+
 -> Mail: samliumay965@gmail.com
+
 -> LinkedIn: https://www.linkedin.com/in/umay-samli-5419b51bb/
+
 -> Instagram: https://www.instagram.com/umay_samli/
+
 -> Twitter: https://x.com/SamlUmay
 
 ## High Level explanation of the lifecycle 
