@@ -22,26 +22,26 @@ Planning and Development life cycle of KUZEY
 - At figure 1, you will able to see the Activity diagram in a high level. Reason of calling activity diagram of life cycle at figure 1 ‘High level’ is, there are some parts we need to look deeper. They will be the lower levels. Events responsible for this leveling structure will have their own activity diagrams. Situation can create confusion but until now, you just need to know that there are some events in high-level activity diagram needs more explanation and will be explained at the feature sections.
 
 ![1](https://github.com/user-attachments/assets/a29d12ef-4df7-403d-8ca8-dc5f3c99b6f0)
-- Figure 1
+* Figure 1
 
 - At Figure 2, you will see the main reasons of why lifecycle at figure1 called ‘high level’. ‘Observation and Analysis’ and ‘Template improvements and feedbacks’ will have their own activity diagram. (In the red rectangle)
 - These two special activities are seriously complicating the situation. In first look these two activates looking like creating confusion and problem. However, without continues observation and template improvements (especially the in the ADHD cases), the agility and usefulness of the planning templates will decrease significantly. Even worse, without good observation analysis and detection people tend to forget and not able to recall their previous experiences in a structure way. This planning lifecycles aim is to cover all aspects of the planning and living. Still you can adapt this lifecycle without these two activities. However, it will decrease the efficiency and it will most likely create a restructure and inefficient planning feedback and creation system.
 - Highly recommended to at least try to use these two activities in the diagram. If it is not manageable, you can remove or modify the structure itself. 
 
 ![2](https://github.com/user-attachments/assets/1d2cd847-02fb-4940-bf91-eecaa1719086)
-- Figure 2
+* Figure 2
 
 ### High level Observation and Analysis Activity Explanation
 - At figure 3, you can see the activity diagram of the observation and analysis activity itself. It looks complicated in the first look, but after reading the activities, it will be very clear to you what is what. As you realized, we still call observation and analysis part high level. In addition, you will understand why it is the case.
 - Lower levels of observation and analysis part is not necessary for efficient system. So if you think even this is too much for me, feel free to skip directly to the ‘feedback activity explanation’ part.
 
 ![3](https://github.com/user-attachments/assets/44009a2e-e5df-4974-bf9e-e4a1d7befc63)
-- Figure 3
+* Figure 3
 
 - At figure 4, you will able to see which parts will be having the lower levels inside the observation and analysis part. (In the red rectangle) Focus on ‘Observation about a specific culture or country’ and ‘observations about a specific person’ part(s). These parts will have special pyramid system we will talk at the feature. At this stage, you will start to systematically rank the people and countries in a structured way. Therefore, as you see, this is very specialized part for structure OSINT, Human and country intelligence with structured analysis of your position against them. If this part is the optional part. So feel free to skip this part if you do not think it is applicable for you. 
 
 ![4](https://github.com/user-attachments/assets/d6c6e7e7-d57b-4174-a16f-a166698a6c4e)
-- Figure 4
+* Figure 4
 
 #### Observation and Analysis Activities Explanation
 - At Figure 5 and Figure 6, you will able to see the UML activity diagrams of the country and person specific observation and analysis activity. They are same. However, because we need to divide them to not create confusion and problem.
@@ -49,16 +49,16 @@ Planning and Development life cycle of KUZEY
 - At the second activity starting from the end, we see something called ‘pyramid’.  We need to deep dive what is ‘pyramid’ .
 
 ![5](https://github.com/user-attachments/assets/dd4927ff-2d2b-4b6b-8f28-a3a52d079551)
-- Figure 5
+* Figure 5
 
 ![6](https://github.com/user-attachments/assets/534e8ca3-e08b-44d6-a046-33392edded38)
-- Figure 6
+* Figure 6
 
 #### ‘Pyramid’ System
 - As you can see, at the lifecycle we pyramid system. This is a system to identify what is our stance against an entity like a person or country. Every event related to the country or person will have a point addition to lessons identified. This will be helpful to create a structured way to systematize what we think about who and why
 
 ![7](https://github.com/user-attachments/assets/687788c4-ec28-4cc7-aa63-e2ae5d418623)
-- Figure 7
+* Figure 7
 
 - Every event will have a value between 100 to -100. If event is a good think for the specific entity, it will be positive number. Otherwise, it will be negative number. How you will give the points to events is completely up to you. Still, main recommendation is before entering the value of the event be sure that you are calm and relaxed.
 - This is especially useful if you are too emotional about the events and people. It will be helpful to control and structure your mind about your position against entities.
@@ -69,7 +69,7 @@ Planning and Development life cycle of KUZEY
 - Mainly it will be useful to maintain your systems up-to-date and quickly and systematically behave when the environment and situation changes. 
 
 ![8](https://github.com/user-attachments/assets/fa71aeeb-baea-4879-a553-dcb7d41c9b9b)
-- Figure 8
+* Figure 8
 
 ## Templates 
 ### Introduction 
